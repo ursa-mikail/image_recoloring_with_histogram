@@ -1,11 +1,11 @@
-<img src="image_recolored.png" alt="image_recolored" width="500" height="600">
+<img src="image_recolored.png" alt="image_recolored" width="500" height="200">
 
 1. Extracts colors from images and names them based on RGB values
 2. Generates color distribution statistics and visualizations
 3. Performs pixel-by-pixel recoloring based on a color mapping
 
 
-<img src="image_recoloring_with_histogram.png" alt="image_recoloring_with_histogram" width="500" height="600">
+<img src="image_recoloring_with_histogram.png" alt="image_recoloring_with_histogram" width="500" height="200">
 
 ## Hybrid Approach to Color Replacement:
 
